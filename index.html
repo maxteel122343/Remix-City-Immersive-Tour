@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>City Immersive Tour</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+
+    <script>
+      (function() {
+        // Prevent unhandled script errors or promise rejections from third-party maps/places
+        // APIs from bubbling to the AI Studio preview host and triggering container reloads.
+        window.onerror = function(msg, url, lineNo, columnNo, error) {
+          return true;
+        };
+
+        window.addEventListener('error', function(event) {
+          if (event) {
+            if (typeof event.preventDefault === 'function') event.preventDefault();
+            if (typeof event.stopPropagation === 'function') event.stopPropagation();
+            if (typeof event.stopImmediatePropagation === 'function') event.stopImmediatePropagation();
+          }
+        }, true);
+
+        window.addEventListener('unhandledrejection', function(event) {
+          if (event) {
+            if (typeof event.preventDefault === 'function') event.preventDefault();
+            if (typeof event.stopPropagation === 'function') event.stopPropagation();
+            if (typeof event.stopImmediatePropagation === 'function') event.stopImmediatePropagation();
+          }
+        });
+      })();
+    </script>
+  </body>
+</html>
+

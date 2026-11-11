@@ -1,0 +1,8 @@
+{
+  "name": "Remix City Immersive Tour",
+  "description": "Interactive Google Maps 3D visualization of San Francisco featuring custom cinematic fly-to paths, adjustable speeds, and interactive annotations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

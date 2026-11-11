@@ -1,0 +1,795 @@
+{
+  "name": "places/ChIJj61dQgK6j4AR4GeTYWZsKWw",
+  "id": "ChIJj61dQgK6j4AR4GeTYWZsKWw",
+  "types": [
+    "corporate_office",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(650) 253-0000",
+  "internationalPhoneNumber": "+1 650-253-0000",
+  "formattedAddress": "1600 Amphitheatre Pkwy, Mountain View, CA 94043, USA",
+  "addressComponents": [
+    {
+      "longText": "1600",
+      "shortText": "1600",
+      "types": [
+        "street_number"
+      ],
+      "languageCode": "en-US"
+    },
+    {
+      "longText": "Amphitheatre Parkway",
+      "shortText": "Amphitheatre Pkwy",
+      "types": [
+        "route"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Mountain View",
+      "shortText": "Mountain View",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Santa Clara County",
+      "shortText": "Santa Clara County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "California",
+      "shortText": "CA",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "United States",
+      "shortText": "US",
+      "types": [
+        "country",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "94043",
+      "shortText": "94043",
+      "types": [
+        "postal_code"
+      ],
+      "languageCode": "en-US"
+    },
+    {
+      "longText": "1351",
+      "shortText": "1351",
+      "types": [
+        "postal_code_suffix"
+      ],
+      "languageCode": "en-US"
+    }
+  ],
+  "plusCode": {
+    "globalCode": "849VCWC7+RV",
+    "compoundCode": "CWC7+RV Mountain View, CA, USA"
+  },
+  "location": {
+    "latitude": 37.4220541,
+    "longitude": -122.08532419999999
+  },
+  "viewport": {
+    "low": {
+      "latitude": 37.4206894697085,
+      "longitude": -122.08559193029149
+    },
+    "high": {
+      "latitude": 37.4233874302915,
+      "longitude": -122.08289396970851
+    }
+  },
+  "rating": 4.1,
+  "googleMapsUri": "https://maps.google.com/?cid=7793879817120868320&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYASAA",
+  "websiteUri": "https://about.google/locations/?region=north-america",
+  "regularOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "hour": 8,
+          "minute": 0
+        },
+        "close": {
+          "day": 1,
+          "hour": 17,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 8,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 17,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 8,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 17,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 8,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 17,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 8,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 17,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "nextOpenTime": "2026-10-15T15:00:00Z"
+  },
+  "utcOffsetMinutes": -420,
+  "adrFormatAddress": "\u003cspan class=\"street-address\"\u003e1600 Amphitheatre Pkwy\u003c/span\u003e, \u003cspan class=\"locality\"\u003eMountain View\u003c/span\u003e, \u003cspan class=\"region\"\u003eCA\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e94043-1351\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 9645,
+  "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+  "iconBackgroundColor": "#78909C",
+  "displayName": {
+    "text": "Googleplex",
+    "languageCode": "en"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Corporate Office",
+    "languageCode": "en-US"
+  },
+  "currentOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "hour": 8,
+          "minute": 0,
+          "date": {
+            "year": 2026,
+            "month": 10,
+            "day": 19
+          }
+        },
+        "close": {
+          "day": 1,
+          "hour": 17,
+          "minute": 0,
+          "date": {
+            "year": 2026,
+            "month": 10,
+            "day": 19
+          }
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 8,
+          "minute": 0,
+          "date": {
+            "year": 2026,
+            "month": 10,
+            "day": 20
+          }
+        },
+        "close": {
+          "day": 2,
+          "hour": 17,
+          "minute": 0,
+          "date": {
+            "year": 2026,
+            "month": 10,
+            "day": 20
+          }
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 8,
+          "minute": 0,
+          "date": {
+            "year": 2026,
+            "month": 10,
+            "day": 14
+          }
+        },
+        "close": {
+          "day": 3,
+          "hour": 17,
+          "minute": 0,
+          "date": {
+            "year": 2026,
+            "month": 10,
+            "day": 14
+          }
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 8,
+          "minute": 0,
+          "date": {
+            "year": 2026,
+            "month": 10,
+            "day": 15
+          }
+        },
+        "close": {
+          "day": 4,
+          "hour": 17,
+          "minute": 0,
+          "date": {
+            "year": 2026,
+            "month": 10,
+            "day": 15
+          }
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 8,
+          "minute": 0,
+          "date": {
+            "year": 2026,
+            "month": 10,
+            "day": 16
+          }
+        },
+        "close": {
+          "day": 5,
+          "hour": 17,
+          "minute": 0,
+          "date": {
+            "year": 2026,
+            "month": 10,
+            "day": 16
+          }
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "nextOpenTime": "2026-10-15T15:00:00Z"
+  },
+  "primaryType": "corporate_office",
+  "shortFormattedAddress": "1600 Amphitheatre Pkwy, Mountain View",
+  "editorialSummary": {
+    "text": "The global headquarters of Google, this campus encompasses offices, green space & recreation areas.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJj61dQgK6j4AR4GeTYWZsKWw/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xR05XbFRhMDVEZG5nNFVXb3hPVzFSTlVKSFpGRRAB",
+      "relativePublishTimeDescription": "3 months ago",
+      "rating": 1,
+      "text": {
+        "text": "I've noticed Google Ratings has started incorporating AI-powered photo analysis.\n\nPreviously, after uploading a photo, I had to write a caption. Now, Google directly \"tells a story from the picture,\" displaying related text descriptions (such as dish names, restaurant atmosphere, type of food, etc.), and the accuracy is quite high.\n\nWhile I'm experiencing the convenience of AI assisting my life, this sudden redesign was still a bit of a shock. How did it change so quietly? Shouldn't they have asked users first how much AI they want permeating their lives?\n\nConvenience is certainly great, but I don't want to unknowingly become accustomed to and dependent on AI, thereby losing my original ability to express my thoughts through writing.",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "I've noticed Google Ratings has started incorporating AI-powered photo analysis.\n\nPreviously, after uploading a photo, I had to write a caption. Now, Google directly \"tells a story from the picture,\" displaying related text descriptions (such as dish names, restaurant atmosphere, type of food, etc.), and the accuracy is quite high.\n\nWhile I'm experiencing the convenience of AI assisting my life, this sudden redesign was still a bit of a shock. How did it change so quietly? Shouldn't they have asked users first how much AI they want permeating their lives?\n\nConvenience is certainly great, but I don't want to unknowingly become accustomed to and dependent on AI, thereby losing my original ability to express my thoughts through writing.",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "THANK YOU",
+        "uri": "https://www.google.com/maps/contrib/110312755792196975256/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWYqkuNrYEkeXljLVYGbUre4tl7ymay9dnb4_CrFnImEVnFwEI=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-07-05T05:52:45.939330457Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xR05XbFRhMDVEZG5nNFVXb3hPVzFSTlVKSFpGRRAB&d=17924085&t=1&wv=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xR05XbFRhMDVEZG5nNFVXb3hPVzFSTlVKSFpGRRAB!2m1!1s0x808fba02425dad8f:0x6c296c66619367e0"
+    },
+    {
+      "name": "places/ChIJj61dQgK6j4AR4GeTYWZsKWw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KUUxUVkZXVU5pU1VObVpVNUpabFV5WlhSa1RWRRAB",
+      "relativePublishTimeDescription": "3 months ago",
+      "rating": 1,
+      "text": {
+        "text": "If youre going to force me to use only your apps. The least you could do is ensure your app is better then my preferred apps and make it where I can keep my customizations. I had them for a realise. Your apps aren't better. And now have to deal with my old issues that I had fixed with my preferred apps. Stop being greedy and go back to being good. Not even your actual search engine is good anymore. The AI isnt actual ai and all it does is lie to you make things harder to look up. But you force it to where you have to be the one used. Its annoying. Your company was created to help people, but seems yall lost sight of that within a decade of making money and getting popular. Now your lost and getting worse.",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "If youre going to force me to use only your apps. The least you could do is ensure your app is better then my preferred apps and make it where I can keep my customizations. I had them for a realise. Your apps aren't better. And now have to deal with my old issues that I had fixed with my preferred apps. Stop being greedy and go back to being good. Not even your actual search engine is good anymore. The AI isnt actual ai and all it does is lie to you make things harder to look up. But you force it to where you have to be the one used. Its annoying. Your company was created to help people, but seems yall lost sight of that within a decade of making money and getting popular. Now your lost and getting worse.",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "Caitlyn Clay",
+        "uri": "https://www.google.com/maps/contrib/107572650819719120895/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUWyKQkieWb102gE3iTa2ctOtPwPmkQrLo-IBEI7uzHAtKj5QMe=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-07-07T15:31:46.456939644Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KUUxUVkZXVU5pU1VObVpVNUpabFV5WlhSa1RWRRAB&d=17924085&t=1&wv=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KUUxUVkZXVU5pU1VObVpVNUpabFV5WlhSa1RWRRAB!2m1!1s0x808fba02425dad8f:0x6c296c66619367e0"
+    },
+    {
+      "name": "places/ChIJj61dQgK6j4AR4GeTYWZsKWw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GNmMzQlVUME0wYjJaRlQzaEhTV2hQZEhaVVdXYxAB",
+      "relativePublishTimeDescription": "2 months ago",
+      "rating": 1,
+      "text": {
+        "text": "Totally disappointed with Google's decision to drop Google assistant and force Gemini AI down our throats.   A few months ago my phone switched to Gemini and the interface with my vehicle was totally unusable.  The conversation voice is ridiculous.  I don't need emotion from AI.  I need my interface to work.  Stop getting cute Google.   Be efficient instead.",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "Totally disappointed with Google's decision to drop Google assistant and force Gemini AI down our throats.   A few months ago my phone switched to Gemini and the interface with my vehicle was totally unusable.  The conversation voice is ridiculous.  I don't need emotion from AI.  I need my interface to work.  Stop getting cute Google.   Be efficient instead.",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "William “Bill” Anderson",
+        "uri": "https://www.google.com/maps/contrib/109891639436386664079/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIyX0OSuzIeIDvBwHARXDKVyASTRzvxWizGAGtSysDBC3jDdg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-08-06T02:16:55.746148736Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GNmMzQlVUME0wYjJaRlQzaEhTV2hQZEhaVVdXYxAB&d=17924085&t=1&wv=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GNmMzQlVUME0wYjJaRlQzaEhTV2hQZEhaVVdXYxAB!2m1!1s0x808fba02425dad8f:0x6c296c66619367e0"
+    },
+    {
+      "name": "places/ChIJj61dQgK6j4AR4GeTYWZsKWw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OM1VtMXFTRWxCTnpad1IyNW5NVW94UjFwVlRXYxAB",
+      "relativePublishTimeDescription": "3 months ago",
+      "rating": 5,
+      "text": {
+        "text": "I have had a wonderful time being me and performing a carrer with my neighbetly friends and Audience as taken on a at home job and exceeding in population to Gross and to earn the different Reward's color of GOOGLE words. And a portrait on National Television as A discovery across the world I'm Thankful that I can see my picture I Love you LORD.",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "I have had a wonderful time being me and performing a carrer with my neighbetly friends and Audience as taken on a at home job and exceeding in population to Gross and to earn the different Reward's color of GOOGLE words. And a portrait on National Television as A discovery across the world I'm Thankful that I can see my picture I Love you LORD.",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "Cathy Barber",
+        "uri": "https://www.google.com/maps/contrib/110914812517918282597/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUpbu71KMgHiSnM6d4YGQJkhqIluoOvCRCAHE-W4ciWxjfte4w=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-07-07T12:07:55.762512604Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OM1VtMXFTRWxCTnpad1IyNW5NVW94UjFwVlRXYxAB&d=17924085&t=1&wv=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OM1VtMXFTRWxCTnpad1IyNW5NVW94UjFwVlRXYxAB!2m1!1s0x808fba02425dad8f:0x6c296c66619367e0"
+    },
+    {
+      "name": "places/ChIJj61dQgK6j4AR4GeTYWZsKWw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GTFFsSXpZbXRNTkRaYWRqUkljREl6T1d4RmNFRRAB",
+      "relativePublishTimeDescription": "6 months ago",
+      "rating": 1,
+      "text": {
+        "text": "This review is for a warranty request from Google for my wife’s Fitbit Charge 6.\n\nI was on a chat with Google this evening for 38 minutes trying to see about getting warranty service on her Fitbit that quit charging.\n\nAfter going through all the recommendations again, as I tried all the tips prior to starting the chat, I was asked to provide a copy of the receipt.\n\nThis is when I was told that her Fitbit was not covered by the manufacturer warranty because it wasn’t purchased through an authorized dealer.\n\nReally, here’s my beef. It was purchased on Amazon just like most everything else I buy online.\n\nI feel like this is a bullshit way to avoid providing a warranty on your product.\n\nI wonder how many folks have purchased a Fitbit on Amazon and not be aware that they have no warranty.\n\nAll three of our family members wear a Fitbit. Been wearing them for years.\n\nI won’t buy another Fitbit now that I know their policy.",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "This review is for a warranty request from Google for my wife’s Fitbit Charge 6.\n\nI was on a chat with Google this evening for 38 minutes trying to see about getting warranty service on her Fitbit that quit charging.\n\nAfter going through all the recommendations again, as I tried all the tips prior to starting the chat, I was asked to provide a copy of the receipt.\n\nThis is when I was told that her Fitbit was not covered by the manufacturer warranty because it wasn’t purchased through an authorized dealer.\n\nReally, here’s my beef. It was purchased on Amazon just like most everything else I buy online.\n\nI feel like this is a bullshit way to avoid providing a warranty on your product.\n\nI wonder how many folks have purchased a Fitbit on Amazon and not be aware that they have no warranty.\n\nAll three of our family members wear a Fitbit. Been wearing them for years.\n\nI won’t buy another Fitbit now that I know their policy.",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "Michael Carlton",
+        "uri": "https://www.google.com/maps/contrib/107018891077092762969/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXoKzduLxJIHn5vUfFKeyNqjkhGVWahSLeJL4MkEzEqTSPPG20=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-04-12T03:45:49.283754663Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GTFFsSXpZbXRNTkRaYWRqUkljREl6T1d4RmNFRRAB&d=17924085&t=1&wv=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GTFFsSXpZbXRNTkRaYWRqUkljREl6T1d4RmNFRRAB!2m1!1s0x808fba02425dad8f:0x6c296c66619367e0"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJj61dQgK6j4AR4GeTYWZsKWw/photos/Aa-ngMZXUqVWwvWwgzAWSMaDVyC_pqUFt_IR8-uvqd93usGjss68EzpLknoktu3aOPusYxyHixAFcxI6ADrmYk1M7hIeMhW74zwRzyAT0NH3oUnwFfYhcHdJz3BoTOOKFpmr3xFcKjrknDfBzBQ2AtraRLWdG0hI3e4v5bTHZ1zLWy4I1rEG4QkQqCH0_N5-MxlLeNvF9hgA6BlUpSITdvhKTyQ3Agzaf1SfHldFOQkUNYGvbGhk-nwFrnrX7zvEw-2_yXoDQ97s20QZzsRHqSG4hSEifzL6P6FXB7mYh5iERn8xpjnS7AhbNgfdPf4Iu_LvgV6DivhmPcb8lJU7sIt8kLSzRSy90IdI2RFzp-rXz7UGWKFMIE9dO0hlY1ZbcYr48ABHHSQpXJ1S1nJAaKe5FylYBowp",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "周雋Jean Chow",
+          "uri": "https://maps.google.com/maps/contrib/115966502285988585651",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUHx2VmwFABKfbRFp3SjujkqaOrVxn6krxZdXr61TKVQJJZQ04V=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICs693WrQE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICs693WrQE!2e10!4m2!3m1!1s0x808fba02425dad8f:0x6c296c66619367e0"
+    },
+    {
+      "name": "places/ChIJj61dQgK6j4AR4GeTYWZsKWw/photos/Aa-ngMbj53GS8gnRTURcFLl2qtwZeFbA9vE29Bt5hh4pDrFq031DMPW1rIGguxlNNNt9kC8aA1_CsQfLFcsGRjgtAdASe0zhEnAEM4eF8X8Of8eyOooBajLUKefD0roYVuF3mQzDyotAdW7htwhsVncPdoFqCqEt6tAgVj3sXnAHI8VQ6GXz2AJGyCWvnVB9yDSlKBEBhYFd2k7RPx8BSiAFcjqt2irb1F1pgT-zMhxRuS8R4EqXX_HviiIGKVQdzKthRDu7v4lgo0hRBS_iXc4vYxssSW5tmyFKF2iM2eeF_i64bqFx6CVIopr3RpLbqCXkeQbpJgdGwFVKZKcYbNCjBx2jLI0lsyaCRwVxm_dE-BAqACvizuXF9pgpcydNEquAxOv2v7_Hikd8rE-TcrID9SU3Xr_hpN8aabvtxKF1zz0Y",
+      "widthPx": 800,
+      "heightPx": 662,
+      "authorAttributions": [
+        {
+          "displayName": "Alamine Hadrati",
+          "uri": "https://maps.google.com/maps/contrib/107180963885482222151",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWoOjdvQFWiYTzpPVVdHoHq4GAz43bluHXDM1TRjopFmg1ykZo=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBaQEnT7ncwm5M0EEZ7PyUM&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBaQEnT7ncwm5M0EEZ7PyUM!2e10!4m2!3m1!1s0x808fba02425dad8f:0x6c296c66619367e0"
+    },
+    {
+      "name": "places/ChIJj61dQgK6j4AR4GeTYWZsKWw/photos/Aa-ngMaSWGwWb5wTRaowkmLR6xoF5Dm3N_T5nSxvu5Yti6RYKs9XLO65f73Yq4ZldN2oM3R6yf1MRL31zTk5r5gH74ImzCBwVPvROJ-7zGKIl4CLQRAN2XgyMnuAPSEbij31UfJypC9M9qAXKgIDxF6k401DPGy-dFhTNDlk5x4flRBlMfiTJIbKq1XXXuKUOkkaHrbpiJaJfIAb84n9dZEMF41qs637Q4jL34zO_na6CmWDd6noXtlfqgeSc09HoggRF_48mruQujvtbUHFParAMVH7mJ8cShrBiAE-1DsOxfCd_XJHhLTNjmF9ZRhpwSOVKTXlNMc1frAbBl55N5GeBZtnxY9acL6zpJe5vcP3E727ifHedItT5oJzlXCSbpK1aQBBUxiQgTDzUNWi3M0z6aGs5MA",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Fábio Celeri",
+          "uri": "https://maps.google.com/maps/contrib/113885422569269654235",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUDVWrwEk_IuxXBhsxGbdKnbaT1hgiU40ka83wBc-wI8s45ZCV-Gg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC4nO6AJA&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4nO6AJA!2e10!4m2!3m1!1s0x808fba02425dad8f:0x6c296c66619367e0"
+    },
+    {
+      "name": "places/ChIJj61dQgK6j4AR4GeTYWZsKWw/photos/Aa-ngMZxnE5F1Pe7Lc4-nXO6et24K9QiV9e98XAXduei5i-F1ys40jHVGkWcZt_F1-ZZy5zO0dbGoWZHCNM9Ek5b9EB52QxgS9cSMiT5hoBVCmtSl9l5KWggYW1LDJKkBe2DcN6r4mxbme6KQfPPHJ1OOfIqKWE6TDZ10m9sho7tm3mOz_ZPqcg7G8Pm9ZZvfRc9z_9IgtffQbbrj1uIg4ANDwObD1VJeavcWx1UQoz1s0JJid_gagUZCT7GDwPkHAXjULrchRCS3kLft98H8s-Wx8F6CFsVee9i0mwCyzAEEdpC7EDLqB7ach-OwYsCWar3baCWxCaXo9K2vRagMaDG4UgHIkxRegjDmb_5Gt7ZvValqD8cWKce7BoXt6kRk-zZsqJbagO2RZV4Xsu2ZMWXzdkJ7h0",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Welly Lee",
+          "uri": "https://maps.google.com/maps/contrib/117984582759564448246",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVjIhU61rT0vo0xDMm2ILTB7bbtfGtHjO1KEv8ot3XSZS1dA83O=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICU1c-dLA&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICU1c-dLA!2e10!4m2!3m1!1s0x808fba02425dad8f:0x6c296c66619367e0"
+    },
+    {
+      "name": "places/ChIJj61dQgK6j4AR4GeTYWZsKWw/photos/Aa-ngMY2dD4D5gE3a2aIp2tSvQq-rvCBRNX8tmh0x2xXVXbN_ygKxsDMuH4eeJA-SrIPNAIrg96BrJt906ti-L5GVwt9l4R_QB5lQfQ2JkjX5dHazrrjdEODcY-i4W8OpzigKVyZUhb_RyGWHQs7dCTU1v87AbYAUAUS84PV7H-5AfVorXmzBkt8mQshAQEVmnY1Rb3xNc6OwmSj0tYfdcq317zWJRyydbQCCXF2ZoeNsxf91YzgfVvKdABLMB9iiQodUkZBeWJR0S9BqiG5LWimFsJN6Tx8n6rlU8hEH2trNKX3-EyQUf8dreWYiIe_4jsMHSl9oNIPyVCW-b0cor4P8JXWRpAFfUf9aDGkF07JyFhVPtO0HjdSN0RnFlSgF7lZ6hB3foFM8J1qu9Gaio4LJTEkER4MPFE",
+      "widthPx": 1731,
+      "heightPx": 1154,
+      "authorAttributions": [
+        {
+          "displayName": "Klugtscheisser",
+          "uri": "https://maps.google.com/maps/contrib/117855073372519923016",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU6PT3ABCHridyZr865fsoEw3547yYuOh6F5bb4ob5n1G3oEL9_=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDu6ruipAE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDu6ruipAE!2e10!4m2!3m1!1s0x808fba02425dad8f:0x6c296c66619367e0"
+    },
+    {
+      "name": "places/ChIJj61dQgK6j4AR4GeTYWZsKWw/photos/Aa-ngMZynJGubWgzSZqHQGSRC4T2wWpZJshf8qIdV7bT2NW7tNan8sJ4w6btb3xs7ftH8a_qRtriNZjLdPzp8J_qflqoV6zC4rsmtuEOYm1JYW_oUTEk6174eym7gNfbVoQIzfwvCHMRuGkUk9spcVFiFDSPVBN_GPxMQ9Z48UhcxaCkTOYp28Wn731n81yjKZHC5VMRouyCPiDxmqeYWCI7DixOzI327Wm0CCOifzu3zUJ7J-um-Qpjz9cFoDM2tfjy2t_3Wa-xIOQxV108aw1b8g5coWwo0sauT2IZ7Dxmn07VM4O5Nj1OkCwKTakWW-4nC9vJRy8RjIwmX_eOzSJtdrPAXTt7uzwP6ginHcQsVCBQXHEWBAi0acbauaTpKnACrT7XQ-cM8cNFXb3bozaeE7uCdf1-g0Q",
+      "widthPx": 4080,
+      "heightPx": 3072,
+      "authorAttributions": [
+        {
+          "displayName": "Avtandil Kikabidze",
+          "uri": "https://maps.google.com/maps/contrib/117557971212981255860",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHikd4T1gcBVL2xaXmWCekoa8mW4C7gSBbT4E54uJwdHWZ-hcYYg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICx9JrwvQE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICx9JrwvQE!2e10!4m2!3m1!1s0x808fba02425dad8f:0x6c296c66619367e0"
+    },
+    {
+      "name": "places/ChIJj61dQgK6j4AR4GeTYWZsKWw/photos/Aa-ngMZ8MTucO4Pn9W1qJ47BonaIGchxb1F2F3zfhoB9uBNpI9lsM9O_4jfohwlUwW_u2EdQ79F-o8KaxiazAO8ugSnFwGluvdmykEXojPx9ED2WFwN-SPCPn7WMPoQSvXwvRFTqZqkl5rnRZxoz7z7icRYxgxkP9RwZEVlCf4CsMiFzI74ROdVIMJzqzZgDjAklu7cnaGWo2Al8u8qY0z6iHaI1UwgmOmVmbcZjw4UGT1FyWZyLrzvDUZ2EKOd6JGu7buzrwvJMo-kqBWfJWA021h0WlJ94L2p_SL0jV_cYByYRgVCFfzPiNHaPbE2MNdQsrtQqnyC8BbJAWrXJk1DUbsrr2kjnFxbVYN4AM2cPuFC0DrQo31CPg5pilKeMV9qZmGsDBX57jdGWX0IK6ynYk3u7lAavJg2L-EgeDMWlrF9uTw",
+      "widthPx": 1000,
+      "heightPx": 750,
+      "authorAttributions": [
+        {
+          "displayName": "Alamine Hadrati",
+          "uri": "https://maps.google.com/maps/contrib/107180963885482222151",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWoOjdvQFWiYTzpPVVdHoHq4GAz43bluHXDM1TRjopFmg1ykZo=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCtmZMgUY4ZCTuNRcGT_cBd&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCtmZMgUY4ZCTuNRcGT_cBd!2e10!4m2!3m1!1s0x808fba02425dad8f:0x6c296c66619367e0"
+    },
+    {
+      "name": "places/ChIJj61dQgK6j4AR4GeTYWZsKWw/photos/Aa-ngMYzT1VpOzbrfxqiWfIQER-QHzXz6sB_E7jQAV2A6LlvgYMzmsWPO38TelQ2CUKyVZ-Tzj8adRIOajvuJQp-bn6CSJp9tLzpo7Xiw-iw1_5zBjUURIMTj-5YPeuhSsnlO8xxtpiV768a8KQ_Oy8wje3OgdaydjWcahI6msU3gfaz0MClfyGwEVOhrwFmCIjfauAv0Mxu2eHANOW0RYXCHluk1MwL8DCOagbdr4Ob2CkNjKUZ9_amvI4grwsAumzBDpsBWyL7lOEZmOLweHzzOfP08EDbTfG5_xPHy4DCAnAqLs57xcGLnk-PhVdXGWUTEvmRWERZqCnWdLW8l_BdpkBBJGgqR0N_Hvk-ZopC-a-BTPZSVFil1zcdiXrDf8UrLz_QzJdSoo75ZuAgrSk42LhZjsP1wFY",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Lawrence Tan",
+          "uri": "https://maps.google.com/maps/contrib/100767900687815088069",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWLiu99mXr5jkPLsiQsJo7Q4mpq5-Hpuyz72IXc7mg4BTe3zeNGPA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDkzMez6AE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDkzMez6AE!2e10!4m2!3m1!1s0x808fba02425dad8f:0x6c296c66619367e0"
+    },
+    {
+      "name": "places/ChIJj61dQgK6j4AR4GeTYWZsKWw/photos/Aa-ngMan8JIOBd_eix5ryInid-qDxx7HRRogcTO_cpUtX9oNUB3RGr4qcMfVTjI0nGYKcU_vzfDnFl_dWzhL6V4Ts4HXl9fX46etQCzjZfqLBVMoM4aiM7QKg2-Jcj85ASQ9KMUKqiWomP5ME0GqhsG2tfoXrGEvTImTOwTQO0H_EZhmgY4eJFQ-iGsw2awXhY-IoesrP4sbzzQIa1HwWHaIJiN1Vl6z_Y9SWD5wocP2_uX8TMht-caqltx1Tb7tRs_881FRLP9nRAdQ5rFv13H2rLtFTIgMTk0H9hhJr4HyDfaFaufresAgO8oDjlUCS04ZTt8dokMVohi3BlnEqlo2RZqsOr-n0sAXYtMyK3FCPcdXYdj0zKiybK7e8aaQAu5UvFoPaVqFAGZG26ZSYrJwxbAKuWE-Hsw",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Jota ypunto",
+          "uri": "https://maps.google.com/maps/contrib/111560452835833490678",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXD5fdTdbu8FxzJ0pRcR08tfS2uAwfv36GxOdxNMm67MUIFL_I7aw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICkoOq30AE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkoOq30AE!2e10!4m2!3m1!1s0x808fba02425dad8f:0x6c296c66619367e0"
+    },
+    {
+      "name": "places/ChIJj61dQgK6j4AR4GeTYWZsKWw/photos/Aa-ngMY7WhTfX5cmDqq2sHjqDpZEkjL1gE9O2oB0VknPXHQMUleMXdl1f9lFvWBsplHDGulghUdWduodhvdYHdtlK1lqYKTptTSGM2iZGU8PKmlUUqPMwLmXv1INdrINr4Gs-CTF7VnYX9vDtZvhUjIrGpU9_hwMxiuAz8VeG4c3iOgV16EkEqGZydiLISB94ue0VUj4EsQrTI0Qb37YphBsnuMCAo3jBr5kzDSz6BTd7crS23RedQ3xdvRkXo-qBF2v_C8S1PMlm0HW044POnPbmHIaYsv9_qJ20h0lWfB8PJyCoGi1t7xAyqpzUDdD-DAniwn0S2NauVERIckn8BkhJIQnRSOk06okmC1--OBcrzARPiqnyzFWib6ijeWXR0DmJ5igvAloh4iS-GMRVx1E-Eys4nifxOQ",
+      "widthPx": 2992,
+      "heightPx": 2992,
+      "authorAttributions": [
+        {
+          "displayName": "Goesto Restaurants",
+          "uri": "https://maps.google.com/maps/contrib/100937215263274423463",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK6Y0LpqErOTdO9NcZ4WMCMvmqvlsyKHqoV8X-qhls3mcGjlw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICuqtPJ2QE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICuqtPJ2QE!2e10!4m2!3m1!1s0x808fba02425dad8f:0x6c296c66619367e0"
+    }
+  ],
+  "parkingOptions": {
+    "freeParkingLot": true,
+    "paidParkingLot": false
+  },
+  "accessibilityOptions": {
+    "wheelchairAccessibleParking": true,
+    "wheelchairAccessibleEntrance": true
+  },
+  "pureServiceAreaBusiness": false,
+  "addressDescriptor": {
+    "landmarks": [
+      {
+        "name": "places/ChIJN8KDNnq7j4AR18Xh9LVB4c4",
+        "placeId": "ChIJN8KDNnq7j4AR18Xh9LVB4c4",
+        "displayName": {
+          "text": "Google B43",
+          "languageCode": "en"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest"
+        ],
+        "straightLineDistanceMeters": 124.09476,
+        "travelDistanceMeters": 244.21744
+      },
+      {
+        "name": "places/ChIJm4OB8QK6j4AR-pERZ-d3Wwc",
+        "placeId": "ChIJm4OB8QK6j4AR-pERZ-d3Wwc",
+        "displayName": {
+          "text": "Google B41",
+          "languageCode": "en"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest"
+        ],
+        "spatialRelationship": "BESIDE",
+        "straightLineDistanceMeters": 54.400074,
+        "travelDistanceMeters": 250.31665
+      },
+      {
+        "name": "places/ChIJpcZsz5K7j4AR6vGsP80OBBo",
+        "placeId": "ChIJpcZsz5K7j4AR6vGsP80OBBo",
+        "displayName": {
+          "text": "Google B42",
+          "languageCode": "en"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest"
+        ],
+        "straightLineDistanceMeters": 27.992899,
+        "travelDistanceMeters": 210.43866
+      },
+      {
+        "name": "places/ChIJo4za6vi5j4ARMua093RgGGA",
+        "placeId": "ChIJo4za6vi5j4ARMua093RgGGA",
+        "displayName": {
+          "text": "Charleston Park",
+          "languageCode": "en"
+        },
+        "types": [
+          "establishment",
+          "park",
+          "point_of_interest"
+        ],
+        "straightLineDistanceMeters": 296.3728,
+        "travelDistanceMeters": 420.12927
+      },
+      {
+        "name": "places/ChIJPymI2QK6j4ARWw1BzUD9i08",
+        "placeId": "ChIJPymI2QK6j4ARWw1BzUD9i08",
+        "displayName": {
+          "text": "Permanente Creek Trail",
+          "languageCode": "en"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest"
+        ],
+        "straightLineDistanceMeters": 183.60129,
+        "travelDistanceMeters": 265.49127
+      }
+    ],
+    "areas": [
+      {
+        "name": "places/ChIJF4Yf2Ry7j4AR__1AkytDyAE",
+        "placeId": "ChIJF4Yf2Ry7j4AR__1AkytDyAE",
+        "displayName": {
+          "text": "Googleplex",
+          "languageCode": "en"
+        },
+        "containment": "WITHIN"
+      }
+    ]
+  },
+  "googleMapsLinks": {
+    "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x808fba02425dad8f:0x6c296c66619367e0!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYASAA",
+    "placeUri": "https://maps.google.com/?cid=7793879817120868320&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYASAA",
+    "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fba02425dad8f:0x6c296c66619367e0!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYASAA",
+    "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x808fba02425dad8f:0x6c296c66619367e0!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYASAA",
+    "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fba02425dad8f:0x6c296c66619367e0!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYASAA"
+  },
+  "timeZone": {
+    "id": "America/Los_Angeles"
+  },
+  "postalAddress": {
+    "regionCode": "US",
+    "languageCode": "en-US",
+    "postalCode": "94043-1351",
+    "administrativeArea": "California",
+    "locality": "Mountain View",
+    "addressLines": [
+      "1600 Amphitheatre Pkwy"
+    ]
+  },
+  "googleMapsTypeLabel": {
+    "text": "Corporate Campus",
+    "languageCode": "en-US"
+  },
+  "navigationPoints": [
+    {
+      "navigationPointToken": "ChIJgzsGGiK2QkARmfMxxFaFXsASEgmPrV1CArqPgBHgZ5NhZmwpbBoSCY-tXUICuo-AEeBnk2FmbClsIhIJheWWffi5j4AREM_8CnFgEKY",
+      "location": {
+        "latitude": 37.4229157,
+        "longitude": -122.08342080000001
+      },
+      "travelModes": [
+        "DRIVE"
+      ],
+      "usages": [
+        "PARKING"
+      ]
+    },
+    {
+      "navigationPointToken": "ChIJPIj44ua1QkARhM97CE-FXsASEgmPrV1CArqPgBHgZ5NhZmwpbBoSCY-tXUICuo-AEeBnk2FmbClsIhIJhdWGuvi5j4ARsqz8RpmIK2o",
+      "location": {
+        "latitude": 37.4211086,
+        "longitude": -122.0829488
+      },
+      "travelModes": [
+        "DRIVE"
+      ],
+      "usages": [
+        "PARKING"
+      ]
+    },
+    {
+      "navigationPointToken": "ChIJpo6f1-m1QkARiax_IXWFXsASEgmPrV1CArqPgBHgZ5NhZmwpbBoSCY-tXUICuo-AEeBnk2FmbClsIhIJeaiDQQK6j4AR6FsjUSfFgfo",
+      "location": {
+        "latitude": 37.4211988,
+        "longitude": -122.0852741
+      },
+      "travelModes": [
+        "DRIVE"
+      ],
+      "usages": [
+        "PARKING"
+      ]
+    },
+    {
+      "navigationPointToken": "ChIJBebXxSO2QkARr6sT4XCFXsASEgmPrV1CArqPgBHgZ5NhZmwpbBoSCY-tXUICuo-AEeBnk2FmbClsIhIJm5cWkwK6j4AR5GQ_dDUA2Fc",
+      "location": {
+        "latitude": 37.422966699999996,
+        "longitude": -122.08501460000001
+      },
+      "travelModes": [
+        "DRIVE"
+      ],
+      "usages": [
+        "PARKING"
+      ]
+    },
+    {
+      "navigationPointToken": "ChIJWDPXDuu1QkAR6x9EMmSFXsASEgmPrV1CArqPgBHgZ5NhZmwpbBoSCY-tXUICuo-AEeBnk2FmbClsIhIJFW4PCwK6j4AR-5HY2ty03HU",
+      "location": {
+        "latitude": 37.4212359,
+        "longitude": -122.0842405
+      },
+      "travelModes": [
+        "WALK"
+      ]
+    },
+    {
+      "navigationPointToken": "ChIJ4fSJlwK2QkAR3npeO2KFXsASEgmPrV1CArqPgBHgZ5NhZmwpbBoSCY-tXUICuo-AEeBnk2FmbClsIhIJ99ccegK6j4AR8L6YeGDAfc4",
+      "location": {
+        "latitude": 37.4219541,
+        "longitude": -122.08412059999998
+      },
+      "travelModes": [
+        "WALK"
+      ]
+    },
+    {
+      "navigationPointToken": "ChIJULhoEga2QkARkgDa-3mFXsASEgmPrV1CArqPgBHgZ5NhZmwpbBoSCY-tXUICuo-AEeBnk2FmbClsIhIJOXcC9gK6j4ARXeI2QpVJEqE",
+      "location": {
+        "latitude": 37.4220603,
+        "longitude": -122.0855703
+      },
+      "travelModes": [
+        "WALK"
+      ]
+    },
+    {
+      "navigationPointToken": "ChIJ_fUKC-61QkARJ2-RxUeFXsASEgmPrV1CArqPgBHgZ5NhZmwpbBoSCY1zuL74uY-AETgjuLlIxPySIhIJfw2mufi5j4ARWj7XLTTVKQ4",
+      "displayName": {
+        "text": "Parking lot",
+        "languageCode": "en"
+      },
+      "location": {
+        "latitude": 37.421327,
+        "longitude": -122.08250559999998
+      },
+      "travelModes": [
+        "DRIVE",
+        "WALK"
+      ],
+      "usages": [
+        "PARKING"
+      ]
+    }
+  ]
+}
